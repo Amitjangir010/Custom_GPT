@@ -1,4 +1,4 @@
-# My GPT Model
+# Custom GPT Model (Experiment)
 
 ## Project Description
 
@@ -49,7 +49,7 @@ Follow the steps below to set up and run the project.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/My_gpt.git
+   git clone https://github.com/Amitjangir010/Custom_GPT.git
    cd My_gpt
    ```
 
